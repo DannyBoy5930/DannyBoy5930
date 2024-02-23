@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I'm currently learning Astrojs (Want to give Svelte and React a go)
+🗑️ Website: ponktoku-homepage.vercel.app 
+
 <!--
 **DannyBoy5930/DannyBoy5930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
