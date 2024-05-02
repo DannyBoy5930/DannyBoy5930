@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning Astrojs (Want to give Svelte and React a go too)
-- 🗑️ My Website: [ponktoku.dev](https://www.ponktoku.dev/) 
+- 🌱 I'm currently learning Next.js
+- 🗑️ My Websites: [ponktoku.dev](https://www.ponktoku.dev/) & [links](https://links.ponktoku.dev/)
+- 
 
 <!--
 **DannyBoy5930/DannyBoy5930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
