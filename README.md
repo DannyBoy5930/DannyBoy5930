@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning Next.js
+- 🌱 I'm currently learning Next.js, Docker, GSAP/Framer Motion, NodeJS (too many things really, I need to cut it back)
 - 🗑️ My Websites: [ponktoku.dev](https://www.ponktoku.dev/) & [links](https://links.ponktoku.dev/)
 - 
 
